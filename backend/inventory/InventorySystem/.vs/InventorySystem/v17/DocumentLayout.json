@@ -1,0 +1,809 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christena\\inventory\\InventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|c:\\users\\christena\\inventory\\inventorysystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|c:\\users\\christena\\inventory\\inventorysystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|c:\\users\\christena\\inventory\\inventorysystem\\responce\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|solutionrelative:responce\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260326032459_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260326031632_addedLoginAndRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|c:\\users\\christena\\inventory\\inventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|c:\\users\\christena\\inventory\\inventorysystem\\extensions\\identityextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|solutionrelative:extensions\\identityextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|c:\\users\\christena\\inventory\\inventorysystem\\extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|solutionrelative:extensions\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|c:\\users\\christena\\inventory\\inventorysystem\\inventorysystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|solutionrelative:inventorysystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|c:\\users\\christena\\inventory\\inventorysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|c:\\users\\christena\\inventory\\inventorysystem\\inventorysystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|solutionrelative:inventorysystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|c:\\users\\christena\\inventory\\inventorysystem\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB781CD-7D67-4863-A904-42051E9BFA75}|InventorySystem.API.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012642_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012251_AddRowVersionToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325011059_cteateDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Common\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Data\\InventoryDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\AuthResultDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Services\\JwtTokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\RegisterDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Mapping\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Services\\JwtSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Interfaces\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Repositories\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Interfaces\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Services\\SaleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Repositories\\UnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Repositories\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Interfaces\\IProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Interfaces\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Common\\PagedResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\Sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\CreateSaleDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\SaleDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Interfaces\\ISaleService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012819_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Common\\ErrorType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Interfaces\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\CreateProductDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\ProductDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\InventorySystem.Infrastracture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\InventorySystem.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\InventorySystem.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T22:48:23.032Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\Common\\Result.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Common\\Result.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\Common\\Result.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:08:32.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\inventory\\InventorySystem\\Responce\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Responce\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Christena\\inventory\\InventorySystem\\Responce\\ApiResponse.cs",
+              "RelativeToolTip": "Responce\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:49:04.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Data\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Data\\InventoryDbContext.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Data\\InventoryDbContext.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Data\\InventoryDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA7wCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:56:39.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\inventory\\InventorySystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Christena\\inventory\\InventorySystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T22:45:49.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\AuthResultDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\AuthResultDto.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\AuthResultDto.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\AuthResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:31:50.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:55:45.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\inventory\\InventorySystem\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Christena\\inventory\\InventorySystem\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA0AAADANDMzMzMTwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:42:28.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:35:09.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260326032459_seedroles.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260326032459_seedroles.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260326032459_seedroles.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260326032459_seedroles.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260326032459_seedroles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T03:25:00.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:37:29.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\inventory\\InventorySystem\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Christena\\inventory\\InventorySystem\\Extensions\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Extensions\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAAUAAACAMzMzMzMLwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:33:42.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260326031632_addedLoginAndRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260326031632_addedLoginAndRegister.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260326031632_addedLoginAndRegister.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260326031632_addedLoginAndRegister.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260326031632_addedLoginAndRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T03:16:32.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\inventory\\InventorySystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Christena\\inventory\\InventorySystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwEQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:22:22.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Christena\\inventory\\InventorySystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Christena\\inventory\\InventorySystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T22:14:16.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentityExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\inventory\\InventorySystem\\Extensions\\IdentityExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\IdentityExtension.cs",
+              "ToolTip": "C:\\Users\\Christena\\inventory\\InventorySystem\\Extensions\\IdentityExtension.cs",
+              "RelativeToolTip": "Extensions\\IdentityExtension.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T03:04:30.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventorySystem.http",
+              "DocumentMoniker": "C:\\Users\\Christena\\inventory\\InventorySystem\\InventorySystem.http",
+              "RelativeDocumentMoniker": "InventorySystem.http",
+              "ToolTip": "C:\\Users\\Christena\\inventory\\InventorySystem\\InventorySystem.http",
+              "RelativeToolTip": "InventorySystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-26T03:07:39.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Services\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Services\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Services\\JwtSettings.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Services\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:56:52.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:36:38.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T22:47:32.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:26:51.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventorySystem.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Christena\\inventory\\InventorySystem\\InventorySystem.API.csproj",
+              "RelativeDocumentMoniker": "InventorySystem.API.csproj",
+              "ToolTip": "C:\\Users\\Christena\\inventory\\InventorySystem\\InventorySystem.API.csproj",
+              "RelativeToolTip": "InventorySystem.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T18:31:17.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAA8AAADAmZmZmZk7wBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T02:50:40.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:41:35.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\inventory\\InventorySystem\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\Christena\\inventory\\InventorySystem\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T02:01:38.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\Services\\SaleService.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Services\\SaleService.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\Services\\SaleService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:42:56.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA2wCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:39:54.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvyMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:52:51.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAUAAACAZGZmZmYGwBAAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:06:18.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T02:47:43.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:15:18.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:01:04.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Common\\PagedResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\Common\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Common\\PagedResult.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\Common\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T03:13:31.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\Sale.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Domain\\Entities\\Sale.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\Sale.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Domain\\Entities\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:01:36.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateSaleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\CreateSaleDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\CreateSaleDTO.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\CreateSaleDTO.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\CreateSaleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:38:01.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SaleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\SaleDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\SaleDTO.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\SaleDTO.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\SaleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:40:44.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Interfaces\\ISaleService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\Interfaces\\ISaleService.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Interfaces\\ISaleService.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\Interfaces\\ISaleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:39:42.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:02:06.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20260325012819_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012819_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012819_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012819_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012819_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:28:20.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260325012251_AddRowVersionToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012251_AddRowVersionToProduct.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012251_AddRowVersionToProduct.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012251_AddRowVersionToProduct.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012251_AddRowVersionToProduct.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:22:51.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260325012642_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012642_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012642_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012642_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325012642_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:26:42.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260325011059_cteateDb.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325011059_cteateDb.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325011059_cteateDb.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325011059_cteateDb.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Migrations\\20260325011059_cteateDb.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T01:10:59.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ErrorType.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Common\\ErrorType.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\Common\\ErrorType.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Common\\ErrorType.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\Common\\ErrorType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:54:53.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAQAAACA/v////8pwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T22:46:35.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\CreateProductDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\CreateProductDTO.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\CreateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:04:35.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:03:28.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "InventorySystem.Infrastracture.csproj",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\InventorySystem.Infrastracture.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\InventorySystem.Infrastracture.csproj",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\InventorySystem.Infrastracture.csproj",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\InventorySystem.Infrastracture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T18:31:18.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "InventorySystem.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\InventorySystem.Application.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\InventorySystem.Application.csproj",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\InventorySystem.Application.csproj",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\InventorySystem.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T18:31:18.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "InventorySystem.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\InventorySystem.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Domain\\InventorySystem.Domain.csproj",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\InventorySystem.Domain.csproj",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Domain\\InventorySystem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T18:31:18.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Infrastracture\\Class1.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Infrastracture\\Class1.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Infrastracture\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:57:18.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:55:46.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Koky\\InventorySystem.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Christena\\Koky\\InventorySystem.Application\\Class1.cs",
+              "RelativeToolTip": "..\\..\\Koky\\InventorySystem.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:54:01.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

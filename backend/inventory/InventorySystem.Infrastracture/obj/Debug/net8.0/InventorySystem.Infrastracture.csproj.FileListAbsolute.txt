@@ -1,0 +1,17 @@
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\bin\Debug\net8.0\InventorySystem.Infrastracture.deps.json
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\bin\Debug\net8.0\InventorySystem.Infrastracture.runtimeconfig.json
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\bin\Debug\net8.0\InventorySystem.Infrastracture.dll
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\bin\Debug\net8.0\InventorySystem.Infrastracture.pdb
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\bin\Debug\net8.0\InventorySystem.Domain.dll
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\bin\Debug\net8.0\InventorySystem.Domain.pdb
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\obj\Debug\net8.0\InventorySystem.Infrastracture.csproj.AssemblyReference.cache
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\obj\Debug\net8.0\InventorySystem.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\obj\Debug\net8.0\InventorySystem.Infrastracture.AssemblyInfoInputs.cache
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\obj\Debug\net8.0\InventorySystem.Infrastracture.AssemblyInfo.cs
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\obj\Debug\net8.0\InventorySystem.Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\obj\Debug\net8.0\Inventor.39686151.Up2Date
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\obj\Debug\net8.0\InventorySystem.Infrastracture.dll
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\obj\Debug\net8.0\refint\InventorySystem.Infrastracture.dll
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\obj\Debug\net8.0\InventorySystem.Infrastracture.pdb
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\obj\Debug\net8.0\InventorySystem.Infrastracture.genruntimeconfig.cache
+C:\Users\Christena\Koky\InventorySystem.Infrastracture\obj\Debug\net8.0\ref\InventorySystem.Infrastracture.dll

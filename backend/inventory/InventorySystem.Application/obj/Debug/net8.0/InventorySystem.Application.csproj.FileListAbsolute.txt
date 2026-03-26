@@ -1,0 +1,17 @@
+C:\Users\Christena\Koky\InventorySystem.Application\bin\Debug\net8.0\InventorySystem.Application.deps.json
+C:\Users\Christena\Koky\InventorySystem.Application\bin\Debug\net8.0\InventorySystem.Application.dll
+C:\Users\Christena\Koky\InventorySystem.Application\bin\Debug\net8.0\InventorySystem.Application.pdb
+C:\Users\Christena\Koky\InventorySystem.Application\bin\Debug\net8.0\InventorySystem.Domain.dll
+C:\Users\Christena\Koky\InventorySystem.Application\bin\Debug\net8.0\InventorySystem.Infrastracture.dll
+C:\Users\Christena\Koky\InventorySystem.Application\bin\Debug\net8.0\InventorySystem.Domain.pdb
+C:\Users\Christena\Koky\InventorySystem.Application\bin\Debug\net8.0\InventorySystem.Infrastracture.pdb
+C:\Users\Christena\Koky\InventorySystem.Application\obj\Debug\net8.0\InventorySystem.Application.csproj.AssemblyReference.cache
+C:\Users\Christena\Koky\InventorySystem.Application\obj\Debug\net8.0\InventorySystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christena\Koky\InventorySystem.Application\obj\Debug\net8.0\InventorySystem.Application.AssemblyInfoInputs.cache
+C:\Users\Christena\Koky\InventorySystem.Application\obj\Debug\net8.0\InventorySystem.Application.AssemblyInfo.cs
+C:\Users\Christena\Koky\InventorySystem.Application\obj\Debug\net8.0\InventorySystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Christena\Koky\InventorySystem.Application\obj\Debug\net8.0\Inventor.494326BD.Up2Date
+C:\Users\Christena\Koky\InventorySystem.Application\obj\Debug\net8.0\InventorySystem.Application.dll
+C:\Users\Christena\Koky\InventorySystem.Application\obj\Debug\net8.0\refint\InventorySystem.Application.dll
+C:\Users\Christena\Koky\InventorySystem.Application\obj\Debug\net8.0\InventorySystem.Application.pdb
+C:\Users\Christena\Koky\InventorySystem.Application\obj\Debug\net8.0\ref\InventorySystem.Application.dll

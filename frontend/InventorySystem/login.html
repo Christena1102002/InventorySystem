@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+ <link rel="stylesheet" href="css/login.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="outer">
+    <div class="title">Welcome Back</div>
+    <div class="subtitle">Login to continue managing your sales.</div>
+    <div class="inner">
+      <label for="phoneNumber">Phone Number</label>
+      <input type="tel" id="phoneNumber" placeholder="Enter your phone number" />
+
+      <label for="password">Password</label>
+      <input type="password" id="password" placeholder="Enter your password" />
+
+      <button id="loginBtn" onclick="handleLogin()">Login</button>
+      <div id="message"></div>
+      <div class="auth-link">Don't have an account? <a href="register.html">Register here</a></div>
+    </div>
+  </div>
+
+   <script src="js/login.js"></script>
+</body>
+</html>

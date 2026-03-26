@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sell Product</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+
+  <div class="outer">
+    <div class="title">Make a Sale</div>
+    <div class="subtitle">Select a product and enter the quantity to sell.</div>
+    <div class="inner">
+
+      <label for="productSelect">Select Product</label>
+      <div class="sel-wrap">
+        <select id="productSelect"></select>
+      </div>
+
+      <label for="quantityInput">Quantity to Sell</label>
+      <input type="number" id="quantityInput" min="1" placeholder="Enter quantity" />
+
+      <button id="sellBtn">Sell Now</button>
+
+     <!-- Message -->
+    <div id="message" class="mt-4 text-center text-lg font-semibold"></div>
+
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+
+</body>
+</html>
+   

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Register</title>
+   <link rel="stylesheet" href="css/register.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="outer">
+    <div class="title">Create Account</div>
+    <div class="subtitle">Sign up to start managing your sales.</div>
+    <div class="inner">
+      <label for="fullName">Full Name</label>
+      <input type="text" id="fullName" placeholder="Enter your full name" />
+
+      <label for="phoneNumber">Phone Number</label>
+      <input type="tel" id="phoneNumber" placeholder="Enter your phone number" />
+
+      <label for="password">Password</label>
+      <input type="password" id="password" placeholder="Create a password" />
+
+      <button id="registerBtn" onclick="handleRegister()">Register</button>
+      <div id="message"></div>
+      <div class="auth-link">Already have an account? <a href="login.html">Login here</a></div>
+    </div>
+  </div>
+   <script src="js/register.js"></script>
+</body>
+</html>

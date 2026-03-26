@@ -1,0 +1,12 @@
+C:\Users\Christena\Koky\InventorySystem.Domain\bin\Debug\net8.0\InventorySystem.Domain.deps.json
+C:\Users\Christena\Koky\InventorySystem.Domain\bin\Debug\net8.0\InventorySystem.Domain.dll
+C:\Users\Christena\Koky\InventorySystem.Domain\bin\Debug\net8.0\InventorySystem.Domain.pdb
+C:\Users\Christena\Koky\InventorySystem.Domain\obj\Debug\net8.0\InventorySystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christena\Koky\InventorySystem.Domain\obj\Debug\net8.0\InventorySystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Christena\Koky\InventorySystem.Domain\obj\Debug\net8.0\InventorySystem.Domain.AssemblyInfo.cs
+C:\Users\Christena\Koky\InventorySystem.Domain\obj\Debug\net8.0\InventorySystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Christena\Koky\InventorySystem.Domain\obj\Debug\net8.0\InventorySystem.Domain.dll
+C:\Users\Christena\Koky\InventorySystem.Domain\obj\Debug\net8.0\refint\InventorySystem.Domain.dll
+C:\Users\Christena\Koky\InventorySystem.Domain\obj\Debug\net8.0\InventorySystem.Domain.pdb
+C:\Users\Christena\Koky\InventorySystem.Domain\obj\Debug\net8.0\ref\InventorySystem.Domain.dll
+C:\Users\Christena\Koky\InventorySystem.Domain\obj\Debug\net8.0\InventorySystem.Domain.csproj.AssemblyReference.cache
